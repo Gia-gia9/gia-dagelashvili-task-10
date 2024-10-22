@@ -39,6 +39,9 @@ body {
     font-weight: 700;
     letter-spacing: 1.5px;
 }
+.box1:hover {
+    color: #2C2830;
+}
 .box2 {
    display: flex;
     color: #2C2830;
@@ -106,6 +109,11 @@ width: 146px;
 height: 40px;
 border: 1.5px solid #FFF;
 margin-top: 24px;
+}
+.view:hover {
+    border: 1.5px solid #FFF;
+background: #FFF;
+color: #2C2830;
 }
 .adamianebi {
     z-index: 1;
@@ -221,6 +229,11 @@ height: 40px;
 z-index: 2;
 
 }
+.con43:hover {
+    border: 1.5px solid #FFF;
+background: #FFF;
+color: #2C2830;
+}
 .ovali3 {
     position: absolute;
     top: 0;
@@ -288,4 +301,7 @@ letter-spacing: 1.5px;
 font-size: 13px;
 font-weight: 700;
 letter-spacing: 1.5px;
+}
+.txt:hover {
+    text-decoration-line: underline;
 }
