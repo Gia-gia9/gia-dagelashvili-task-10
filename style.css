@@ -52,6 +52,11 @@ body {
     height: 40px;
     border: 1.5px solid #2C2830;
 }
+box:hover {
+    border: 1.5px solid #2C2830;
+background: #2C2830;
+color: #FFF;
+}
 .conteiner2 {
     display: flex;
     height: 600px;
