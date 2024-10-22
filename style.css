@@ -295,7 +295,7 @@ letter-spacing: 1.5px;
 .txt {
     display: flex;
     flex-direction: column;
-    gap: 16px;
+    padding-top: 16px;
     color: #2D2641;
     font-family: "Karla", sans-serif;
 font-size: 13px;
