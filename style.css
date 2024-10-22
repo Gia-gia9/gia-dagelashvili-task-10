@@ -294,7 +294,7 @@ letter-spacing: 1.5px;
 }
 .txt1 {
     display: flex;
-    gap: 16px;
+    justify-content: space-between;
 }
 .txt {
     display: flex;
