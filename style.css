@@ -292,13 +292,10 @@ font-size: 13px;
 font-weight: 700;
 letter-spacing: 1.5px;
 }
-.txt1 {
-    display: flex;
-    justify-content: space-between;
-}
 .txt {
     display: flex;
     flex-direction: column;
+    gap: 16px;
     color: #2D2641;
     font-family: "Karla", sans-serif;
 font-size: 13px;
